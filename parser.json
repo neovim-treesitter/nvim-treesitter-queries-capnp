@@ -3,7 +3,7 @@
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-capnp",
   "semver": false,
   "parser_version": "7b0883c03e5edd34ef7bcf703194204299d7099f",
-  "lang": "capnp",
   "location": null,
+  "lang": "capnp",
   "generate": null
 }
