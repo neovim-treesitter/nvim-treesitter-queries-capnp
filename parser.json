@@ -1,8 +1,9 @@
 {
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-capnp",
   "lang": "capnp",
-  "min_version": null,
-  "max_version": null,
+  "semver": false,
+  "parser_version": "7b0883c03e5edd34ef7bcf703194204299d7099f",
   "location": null,
-  "semver": false
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-capnp",
+  "generate": null,
+  "generate_from_json": null
 }
